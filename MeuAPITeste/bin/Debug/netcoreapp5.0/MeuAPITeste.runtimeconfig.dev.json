@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Diovane\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Diovane\\.nuget\\packages"
+    ]
+  }
+}

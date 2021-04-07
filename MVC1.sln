@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC1", "MVC1\MVC1.csproj", "{2722E530-4283-4C7A-A8F8-DB396DBFEC2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeuAPI1", "MeuAPI1\MeuAPI1.csproj", "{45527C4C-8630-4145-B3E0-496D29DEE435}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MeuAPITeste", "..\MVC\MeuAPITeste\MeuAPITeste.csproj", "{A53B4F59-3CC6-431F-AA7A-2C6C08932D61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2722E530-4283-4C7A-A8F8-DB396DBFEC2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2722E530-4283-4C7A-A8F8-DB396DBFEC2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2722E530-4283-4C7A-A8F8-DB396DBFEC2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2722E530-4283-4C7A-A8F8-DB396DBFEC2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45527C4C-8630-4145-B3E0-496D29DEE435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45527C4C-8630-4145-B3E0-496D29DEE435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45527C4C-8630-4145-B3E0-496D29DEE435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45527C4C-8630-4145-B3E0-496D29DEE435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A53B4F59-3CC6-431F-AA7A-2C6C08932D61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A53B4F59-3CC6-431F-AA7A-2C6C08932D61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A53B4F59-3CC6-431F-AA7A-2C6C08932D61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A53B4F59-3CC6-431F-AA7A-2C6C08932D61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {285413AE-8B45-4931-A9F6-11F9305A4944}
+	EndGlobalSection
+EndGlobal
