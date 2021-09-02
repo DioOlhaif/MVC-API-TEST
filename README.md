@@ -1,2 +1,2 @@
 # MVC-API-TEST
-Teste Usando Asp.NETMVC com EntityFrameWork e API,  usando testes com o XUnit 
+Testes Usando Asp.NET MVC com EntityFrameWork e testes com o XUnit 
